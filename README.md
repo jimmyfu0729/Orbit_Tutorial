@@ -1,4 +1,4 @@
-# Isaac Orbit_Tutorial
+# Isaac Orbit Tutorial
 It is a tutorial for people to learn the basic Isaac Orbit workflow. The example used in this tutorial is the Softbank Pepper robot. The task of this environment is to reach the target states.
 
 
